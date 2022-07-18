@@ -215,3 +215,8 @@ function loadDataFromStorage() {
 
     document.dispatchEvent(new Event(RENDER_EVENT));
 }
+
+function test()
+{
+    return "Test";
+}
