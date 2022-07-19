@@ -220,3 +220,8 @@ function test()
 {
     return "Test";
 }
+
+function test()
+{
+    return "Test1";
+}
